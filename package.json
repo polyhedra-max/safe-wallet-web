@@ -35,7 +35,8 @@
     "lint"
   ],
   "resolutions": {
-    "@web3-onboard/trezor/**/protobufjs": "^7.2.4"
+    "@web3-onboard/trezor/**/protobufjs": "^7.2.4",
+    "@safe-global/safe-deployments": "git+https://github.com/polyhedra-max/safe-deployments.git#v1.25.0-opbnb"
   },
   "dependencies": {
     "@date-io/date-fns": "^2.15.0",
